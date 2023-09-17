@@ -599,6 +599,7 @@ button[type="submit"] {
     h1 {
         font-size: 4rem;
         line-height: 5rem;
+        width: 100vw;
     }
 
     h2 {
