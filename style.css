@@ -689,7 +689,7 @@ button[type="submit"] {
 
     .cards {
         background-color: #081F51;
-        height: 20rem;
+        height: auto;
         border: 0.5rem solid #3961B7;
         border-radius: 0.5rem;
         padding: 2rem;
